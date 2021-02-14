@@ -2,10 +2,43 @@ body{
 
   background-color: #fce6e4;
 }
+.pars{
 
+  font-family: 'Pacifico', cursive;
+color: #D95245;
+  text-align: center;
+  font-size: 50px;
+  margin-bottom: 0;
+}
+h1{
+  text-align: center;
+  color: #FFAED3;
+}
 img{
 
 height: 200px;
-align-content: center;
 
+
+}
+
+table{
+
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.position {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.lockscreen{
+
+  height: 400px;
+  width: auto;
+}
+
+a{
+  text-decoration: none;
 }
