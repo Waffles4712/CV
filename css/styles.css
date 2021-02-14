@@ -20,9 +20,19 @@ h1 {
 
 h3 {
   color: #1687a7;
+  text-align: center;
 }
 
 a{
   text-decoration: none;
 
+}
+
+p{
+  text-align: center;
+}
+
+.areas{
+
+  text-align: center;
 }
